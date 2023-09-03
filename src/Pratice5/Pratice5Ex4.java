@@ -1,6 +1,6 @@
 package Pratice5;
 
-public class Pratic5Ex4 {
+public class Pratice5Ex4 {
 
     public static void main(String[] args) {
 

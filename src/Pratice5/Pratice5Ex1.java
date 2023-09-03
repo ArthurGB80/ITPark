@@ -1,3 +1,5 @@
+package Pratice5;
+
 public class Pratice5Ex1 {
 
     public static void main(String[] args) {

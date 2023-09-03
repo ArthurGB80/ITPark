@@ -1,3 +1,5 @@
+package Pratice6;
+
 import java.util.Arrays;
 
 public class Pratice6Ex3 {

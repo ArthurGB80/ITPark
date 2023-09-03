@@ -1,3 +1,5 @@
+package Pratice4;
+
 import java.util.Scanner;
 
 public class Paratice4Ex5Code2 {

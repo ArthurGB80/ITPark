@@ -1,3 +1,5 @@
+package Pratice3;
+
 import java.util.Scanner;
 
 public class Pratice3Ex3 {

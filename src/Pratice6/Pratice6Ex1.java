@@ -1,3 +1,5 @@
+package Pratice6;
+
 public class Pratice6Ex1 {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Pratice3;
+
 import java.text.DecimalFormat;
 
 public class Pratice3Ex1 {

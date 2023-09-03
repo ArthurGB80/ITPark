@@ -1,3 +1,5 @@
+package Pratice5;
+
 import java.util.Scanner;
 
 public class Pratice5Ex2 {

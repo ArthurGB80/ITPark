@@ -1,3 +1,5 @@
+package Pratice6;
+
 import java.util.Random;
 
 public class Pratice6Ex4 {

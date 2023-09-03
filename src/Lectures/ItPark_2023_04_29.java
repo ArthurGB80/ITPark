@@ -1,4 +1,4 @@
-package Aulas;
+package Lectures;
 
 public class ItPark_2023_04_29 {
 
