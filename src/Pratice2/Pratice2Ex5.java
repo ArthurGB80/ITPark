@@ -1,4 +1,5 @@
 package Pratice2;
+
 import java.util.Scanner;
 
 public class Pratice2Ex5 {
@@ -34,10 +35,8 @@ public class Pratice2Ex5 {
 
         int excC = x * y;
         System.out.println("O resultado de x * y é: " + excC);*/
-                   
 
 
-        
     }
-    
+
 }

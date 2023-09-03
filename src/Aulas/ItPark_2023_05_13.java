@@ -278,7 +278,6 @@ public class ItPark_2023_05_13 {
 //        }
 
 
-
 //        Scanner scanner = new Scanner(System.in); // igual a situacao de cima
 //        Random random = new Random();
 //        System.out.println(scanner);
@@ -345,10 +344,8 @@ public class ItPark_2023_05_13 {
 
         */
     }
-    
 
 
-    
 }
 
 

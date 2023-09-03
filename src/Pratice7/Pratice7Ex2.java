@@ -35,11 +35,8 @@ public class Pratice7Ex2 {
             }
         }
         System.out.println(m);
-        
 
 
-
-        
     }
 
 }

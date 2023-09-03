@@ -2,13 +2,13 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Pratice6Ex2 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Random random = new Random();
         int[] myArray = new int[10];
 
-        System.out.println("\nmyArray: ");       
-        
+        System.out.println("\nmyArray: ");
+
         for (int i = 0; i < myArray.length; i++) {
             myArray[i] = random.nextInt(100);
             System.out.print(myArray[i] + " ");
@@ -17,16 +17,16 @@ public class Pratice6Ex2 {
         // 1. Find the arithmetic mean of the smallest and largest elements in the array.
 
         System.out.println();
-        double average = (Math.abs(myArray[0]) + Math.abs(myArray[myArray.length - 1]))/2;
+        double average = (Math.abs(myArray[0]) + Math.abs(myArray[myArray.length - 1])) / 2;
         System.out.println("\nAverage at fist and last: " + average);
 
         // 2. Count the number of elements in the array whose value is greater than this mean.
-        
+
         System.out.println("\nNumbers greater than average: ");
         for (int j = 0; j < myArray.length; j++) {
             if (myArray[j] > average) {
                 System.out.print(myArray[j] + " ");
-            }           
+            }
         }
 
         System.out.println();
@@ -44,7 +44,7 @@ public class Pratice6Ex2 {
         int[] ordersGreater = new int[myArray.length];
         for (int y = 0; y < myArray.length; y++) {
             if (myArray[y] > average) {
-                ordersGreater[y] = myArray[y];                
+                ordersGreater[y] = myArray[y];
             }
             // System.out.print(ordersGreater[y] + " ");          
         }
@@ -69,11 +69,10 @@ public class Pratice6Ex2 {
         int[] ordersLess = new int[myArray.length];
         for (int w = 0; w < myArray.length; w++) {
             if (myArray[w] < average) {
-                ordersLess[w] = myArray[w];                
-            } 
-            else { 
-            // System.out.print(ordersLess[w] + " ");
-        }
+                ordersLess[w] = myArray[w];
+            } else {
+                // System.out.print(ordersLess[w] + " ");
+            }
         }
 
         System.out.println();

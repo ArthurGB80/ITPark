@@ -1,7 +1,7 @@
 public class Test2 {
     public static void main(String[] args) {
-        int[][] square1 = { { 2, 7, 6 }, { 9, 5, 1 }, { 4, 3, 8 } };
-        int[][] square2 = { { 8, 1, 6 }, { 3, 5, 7 }, { 4, 9, 2 } };
+        int[][] square1 = {{2, 7, 6}, {9, 5, 1}, {4, 3, 8}};
+        int[][] square2 = {{8, 1, 6}, {3, 5, 7}, {4, 9, 2}};
 
         boolean isMagicSquare1 = isMagicSquare(square1);
         boolean isMagicSquare2 = isMagicSquare(square2);
@@ -34,10 +34,6 @@ public class Test2 {
             diagSum1 += square[i][i];
             diagSum2 += square[i][size - 1 - i];
         }
-        if (diagSum1 != targetSum || diagSum2 != targetSum) {
-            return false;
-        }
-
-        return true;
+        return diagSum1 == targetSum && diagSum2 == targetSum;
     }
 }

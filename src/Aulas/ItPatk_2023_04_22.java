@@ -15,7 +15,7 @@ class ItPatk_2023_04_22 {
         System.out.println(a & b);
 
 
-        Scanner scanner = new Scanner (System.in);
+        Scanner scanner = new Scanner(System.in);
 
         byte x = scanner.nextByte();
         // byte y = 100;

@@ -30,7 +30,7 @@ public class Pratice7Ex4 {
 
         System.out.println();
 
-        
+
         // Point b)
 
         // "A man, a plan, a canal, Panama!"

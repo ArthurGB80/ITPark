@@ -1,20 +1,20 @@
 package Pratice1;
+
 import java.util.Scanner;
 
-public class Pratice1Ex2
- {
-    public static void main(String[] args){
+public class Pratice1Ex2 {
+    public static void main(String[] args) {
         System.out.println("Эта программа вычисляет периметр и площадь прямоугольника.");
         System.out.println("Введите значение длины:");
-        double length  = new Scanner(System.in).nextDouble();
+        double length = new Scanner(System.in).nextDouble();
         System.out.println("Введите значение ширины:");
-        double width  = new Scanner(System.in).nextDouble();
-        
-        double perimiter = 2*(length  * width );
-        double area = length  * width ;
+        double width = new Scanner(System.in).nextDouble();
+
+        double perimiter = 2 * (length * width);
+        double area = length * width;
         System.out.println();
-        System.out.println("Для прямоугольника с длиной = " + length  + " и " + "шириной   = " + width  + ":");
-        
+        System.out.println("Для прямоугольника с длиной = " + length + " и " + "шириной   = " + width + ":");
+
         System.out.println("Периметр = " + perimiter);
         System.out.println("Площадь = " + area);
 
@@ -55,6 +55,6 @@ public static void calculateRectangle(double length, double width) {
 }
 
          */
-                
+
     }
 }

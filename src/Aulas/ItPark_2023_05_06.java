@@ -114,7 +114,7 @@ public class ItPark_2023_05_06 {
         System.out.println("The End");
     }*/
 
-    
+
 //        for (int i = 0; i < 10; i++) {
 //            System.out.print(i);
 //        }
@@ -160,11 +160,11 @@ public class ItPark_2023_05_06 {
 //        System.out.println(i);
 
 
-    //    int s = 0;
-    //    for (int i = 0; i < 101; i++) {
-    //        s += i;
-    //    }
-    //    System.out.println(s);
+        //    int s = 0;
+        //    for (int i = 0; i < 101; i++) {
+        //        s += i;
+        //    }
+        //    System.out.println(s);
 
 
 //        double s = 1; // nem o long funciona aqui precisa usar o double por causa da notação cientifica
@@ -178,25 +178,25 @@ public class ItPark_2023_05_06 {
             for (int j = 1; j < 10; j++)   // _72
                 //System.out.print(i * j + " ");
                 //System.out.print("\t" + i * j);
-                System.out.printf("%3s" , i * j);
+                System.out.printf("%3s", i * j);
             System.out.println();
         }
 
- 
-    //    int i = 1;
-    //    while (i < 10)
-    //        System.out.print(i++ + " ");
 
-    //    int i = 1;
-    //    while (i < 10)
-    //        System.out.println(i + " ");
-    //    i++;
+        //    int i = 1;
+        //    while (i < 10)
+        //        System.out.print(i++ + " ");
 
-    //    int i = 1;
-    //    while (i < 10) {
-    //        System.out.print(i + " ");
-    //        i++;
-    //    }
+        //    int i = 1;
+        //    while (i < 10)
+        //        System.out.println(i + " ");
+        //    i++;
+
+        //    int i = 1;
+        //    while (i < 10) {
+        //        System.out.print(i + " ");
+        //        i++;
+        //    }
 //        System.out.println();
 
 //        int j = 1; // a mesma coisa q o de cima
@@ -207,14 +207,14 @@ public class ItPark_2023_05_06 {
 //        while (j<10);
 
 
-    //    Random random = new Random();
-    //    int n, s = 0;
-    //    while (s < 100) {
-    //        n = random.nextInt(101);
-    //        System.out.print(n + " ");
-    //        s += n;
-    //    }
-    //    System.out.println(s);
+        //    Random random = new Random();
+        //    int n, s = 0;
+        //    while (s < 100) {
+        //        n = random.nextInt(101);
+        //        System.out.print(n + " ");
+        //        s += n;
+        //    }
+        //    System.out.println(s);
 
         // Random random = new Random();
         // int n, s = 0;

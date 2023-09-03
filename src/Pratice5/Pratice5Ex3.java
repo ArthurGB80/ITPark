@@ -13,9 +13,9 @@ public class Pratice5Ex3 {
                 }
             }
             if (sum == number * 2) {
-                System.out.println(String.format("%d is a perfect number", number));
+                System.out.printf("%d is a perfect number%n", number);
             } else {
-                System.out.println(String.format("%d is not a perfect number", number));
+                System.out.printf("%d is not a perfect number%n", number);
             }
         }
     }

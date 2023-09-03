@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Paratice4Ex5 {
     public static void main(String[] args) {
-        
+
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter with a month: ");
             int month = Integer.parseInt(System.console().readLine());

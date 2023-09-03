@@ -4,13 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de2246f4-531c-488f-be53-da22bb3b2b92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="de2246f4-531c-488f-be53-da22bb3b2b92" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/src/Aulas/ItPark_2023_04_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/ItPark_2023_04_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/ItPark_2023_05_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/ItPark_2023_05_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/ItPark_2023_05_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/ItPark_2023_05_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/ItPatk_2023_04_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/ItPatk_2023_04_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice1/Pratice1Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice2/Pratice2Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice3/Pratice3Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice3/Pratice3Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice3/Pratice3Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice3/Pratice3Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5Code2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Paratice4Ex5Code2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex1Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex1Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex4Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex4Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex5Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice4/Pratice4Ex5Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice5/Pratic5Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice5/Pratic5Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice5/Pratice5Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice6/Pratice6Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice7/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice7/CountWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice7/Pratice7Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,6 +169,23 @@
       <option name="presentableId" value="Default" />
       <updated>1692506102839</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1693720689841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693720689841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1693720727460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693720727460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

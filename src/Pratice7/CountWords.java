@@ -1,7 +1,7 @@
 package Pratice7;
 
 public class CountWords {
-    private String phrase;
+    private final String phrase;
 
     public CountWords(String phrase) {
         this.phrase = phrase;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pratice4Ex4 {  
+public class Pratice4Ex4 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -13,21 +13,19 @@ public class Pratice4Ex4 {
         int losedGame = 0;
         int drawPoint = 0;
         int drawGame = 0;
-        
+
 
         try {
             for (int i = 0; i < n; i++) {
                 System.out.println("Enter the result of game " + (i + 1) + ": ");
                 int result = sc.nextInt();
-                
+
                 if (result == 3) {
                     wonGame += 1;
                     wonPont += 3;
-                }
-                else if (result == 0) {
+                } else if (result == 0) {
                     losedGame += 1;
-                }
-                else if (result == 1) {
+                } else if (result == 1) {
                     drawGame += 1;
                     drawPoint += 1;
                 }
@@ -36,7 +34,7 @@ public class Pratice4Ex4 {
             System.out.println("Error: " + e.getMessage());
             e.printStackTrace();
         } finally {
-        sc.close(); // close the scanner to avoid resource leak
+            sc.close(); // close the scanner to avoid resource leak
         }
 
         int totalPoints = wonPont + drawPoint;
@@ -46,6 +44,6 @@ public class Pratice4Ex4 {
         System.out.println("Games lost: " + losedGame);
         System.out.println("Games draw: " + drawGame);
         System.out.println("Total Points: " + totalPoints);
-                     
-    } 
+
+    }
 }

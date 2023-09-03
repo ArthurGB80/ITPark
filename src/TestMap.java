@@ -10,11 +10,10 @@ public class TestMap {
         System.out.println(str.toCharArray());
 
         for (char x : str.toCharArray()) {
-            if (m.containsKey(x)){
-                int old = (int) m.get(x);  
-                m.put(x, old+1);
-            }
-            else {
+            if (m.containsKey(x)) {
+                int old = (int) m.get(x);
+                m.put(x, old + 1);
+            } else {
                 m.put(x, 1);
             }
         }
@@ -23,7 +22,7 @@ public class TestMap {
         System.out.println(m);
 
     }
-    
+
 }
 
 

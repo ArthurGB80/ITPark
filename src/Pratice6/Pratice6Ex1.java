@@ -1,10 +1,10 @@
 public class Pratice6Ex1 {
-    public static void main(String[]args){
+    public static void main(String[] args) {
 
         System.out.println("myArray: ");
 
         int[] myArray = new int[30];
-        for (int i=0; i < myArray.length; i++) {
+        for (int i = 0; i < myArray.length; i++) {
             myArray[i] = i - Math.round(myArray.length / 2);
             System.out.print(myArray[i] + " ");
         }
@@ -55,15 +55,15 @@ public class Pratice6Ex1 {
                 System.out.print(myArray[j] + " ");
             }
         }
-         
+
         System.out.println("\nTwo-digit elengts: ");
         for (int j = 0; j < myArray.length; j++) {
             if (Math.abs(myArray[j]) > 10) {
                 System.out.print(myArray[j] + " ");
-            }   
+            }
 
         }
 
     }
-    
+
 }

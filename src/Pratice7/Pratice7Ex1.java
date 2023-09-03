@@ -30,9 +30,9 @@ public class Pratice7Ex1 {
         strChange.deleteCharAt(2);
         strChange.insert(5, "и");
 
-        System.out.println(strChange.toString());
-        
+        System.out.println(strChange);
+
 
     }
-    
+
 }

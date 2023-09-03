@@ -1,11 +1,8 @@
 package Aulas;
 
-import java.math.BigDecimal;
-import java.util.Scanner;
-
 public class ItPark_2023_04_29 {
 
-    public static void main(String[]args)  {
+    public static void main(String[] args) {
 
 //        int a = 1;
 //        int b = 2;
@@ -25,7 +22,7 @@ public class ItPark_2023_04_29 {
 //       System.out.println(Math.sin(x));
 
 //        /////////////////////////////////
-       
+
 //        //        int x, y;
 //        //
 // //        x = 5;
@@ -225,15 +222,9 @@ public class ItPark_2023_04_29 {
 // //        System.out.println(bigDecimal);
 
 
-
-
-
     }
 
 
-
-
-
- }
+}
 
 

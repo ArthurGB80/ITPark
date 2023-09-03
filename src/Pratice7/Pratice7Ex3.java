@@ -11,7 +11,7 @@ public class Pratice7Ex3 {
         Map m = new HashMap();
 
         for (char x : word.toCharArray()) {
-            if (m.containsKey(x) == true) {
+            if (m.containsKey(x)) {
                 int old = (int) m.get(x);
                 m.put(x, old + 1);
 

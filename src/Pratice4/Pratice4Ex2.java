@@ -21,9 +21,9 @@ public class Pratice4Ex2 {
 
         System.out.println("Enter your birth date: ");
         while (true) {
-            if(sc.hasNextInt()){
+            if (sc.hasNextInt()) {
                 birthDay = sc.nextInt();
-                if (birthDay >= 1 && birthDay <= 31){
+                if (birthDay >= 1 && birthDay <= 31) {
                     break;
                 }
             }
@@ -34,9 +34,9 @@ public class Pratice4Ex2 {
         System.out.println("Enter the month of your birth: ");
 
         while (true) {
-            if (sc.hasNextInt()){
+            if (sc.hasNextInt()) {
                 birthMonth = sc.nextInt();
-                if (birthMonth >= 1 && birthMonth <= 12){
+                if (birthMonth >= 1 && birthMonth <= 12) {
                     break;
                 }
             }
@@ -46,9 +46,9 @@ public class Pratice4Ex2 {
 
         System.out.println("Enter the year of your birth: ");
         while (true) {
-            if (sc.hasNextInt()){
+            if (sc.hasNextInt()) {
                 birthYear = sc.nextInt();
-                if (birthYear >= 1900 && birthYear <= 2020){
+                if (birthYear >= 1900 && birthYear <= 2020) {
                     break;
                 }
             }
@@ -66,6 +66,6 @@ public class Pratice4Ex2 {
         }
 
         System.out.println("Your age is: " + years + " years " + months + " months " + days + " days");
-    } 
+    }
 
 } 
