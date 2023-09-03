@@ -11,7 +11,7 @@ The repository is organized as follows:
 
 Lectures: This folder contains some of the practical examples we had in a few lessons. Several lessons are missing as my computer had issues, and I ended up losing a lot of material.
 
-Exercises: Here we will find the solutions to the practice exercises assigned during the course. Again, there are missing solutions as I lost a portion of the files.
+Pratice: Here we will find the solutions to the practice exercises assigned during the course. Again, there are missing solutions as I lost a portion of the files.
 
 Resources: In this folder, we will find the provided material.
 
@@ -25,7 +25,7 @@ To access the course material, please follow these steps:
    
 7. Read the exercise instructions and write your Java code to solve it.
    
-9. Verify your solutions by comparing them with the provided solution files in the "exercises" folder.
+9. Verify your solutions by comparing them with the provided solution files in the "Pratice" folder.
    
 Contribution
 This repository is intended solely for sharing the course material I studied. Therefore, external contributions are not accepted. However, feel free to use the material for study and learning purposes.
