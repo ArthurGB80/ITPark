@@ -13,8 +13,8 @@ public class Pratice7Ex2 {
         String[] words = phrase.split(" ");
 
         int count = 0;
-        for (int i = 0; i < words.length; i++) {
-            if (words[i].contains("е")) {
+        for (String word : words) {
+            if (word.contains("е")) {
                 count++;
             }
         }
